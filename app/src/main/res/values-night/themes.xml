@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.BookAppOffline" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/color_one</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:forceDarkAllowed" tools:ignore="NewApi">false</item>
+    </style>
+
+    <style name="MyTheme" parent="ThemeOverlay.AppCompat.Dark.ActionBar"></style>
+
+</resources>
