@@ -12,23 +12,35 @@
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
-        android:background="@color/color_one"
         android:theme="@style/MyTheme"
+        android:background="@color/color_one"
         android:elevation="@dimen/_5sdp">
 
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent">
+
             <TextView
-                android:id="@+id/bird_title"
+                android:id="@+id/book_title"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_centerVertical="true"
-                android:text="@string/app_name"
-                android:textSize="@dimen/_18ssp"
-                android:textColor="@color/white"
                 android:fontFamily="@font/kalpurush"
-                />
+                android:text="@string/app_name"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_18ssp" />
+            <TextView
+                android:id="@+id/currentPageNumber"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:fontFamily="@font/kalpurush"
+                android:text=""
+                android:gravity="end"
+                android:layout_marginRight="@dimen/_10sdp"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_18ssp" />
+
         </RelativeLayout>
 
     </androidx.appcompat.widget.Toolbar>

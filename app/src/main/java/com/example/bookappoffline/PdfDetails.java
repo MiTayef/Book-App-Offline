@@ -10,6 +10,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import com.github.barteksc.pdfviewer.PDFView;
 import com.github.barteksc.pdfviewer.listener.OnLoadCompleteListener;
+import com.github.barteksc.pdfviewer.listener.OnPageChangeListener;
 import com.github.barteksc.pdfviewer.util.FitPolicy;
 
 import java.io.IOException;
@@ -19,7 +20,7 @@ public class PdfDetails extends AppCompatActivity {
 
     PDFView pdfView;
     ProgressBar progressBar;
-    TextView bird_title;
+    TextView book_title, currentPageNumber;
 
 
     @Override
@@ -38,7 +39,8 @@ public class PdfDetails extends AppCompatActivity {
         // Initialize PDFView, ProgressBar, and TextView for displaying title
         pdfView = findViewById(R.id.pdfView);
         progressBar = findViewById(R.id.progressBar);
-        bird_title = findViewById(R.id.bird_title);
+        book_title = findViewById(R.id.book_title);
+        currentPageNumber = findViewById(R.id.currentPageNumber);
 
 
 
@@ -49,7 +51,7 @@ public class PdfDetails extends AppCompatActivity {
             String title = bundle.getString("title");
 
             // Set the title of the PDF file in the TextView
-            bird_title.setText(title);
+            book_title.setText(title);
 
             // Load the PDF from assets
             loadPDFFromAssets(pdfFileName);
@@ -82,6 +84,12 @@ public class PdfDetails extends AppCompatActivity {
                     .enableAntialiasing(true)
                     .pageSnap(true)
                     .pageFling(true)
+                    .onPageChange(new OnPageChangeListener() {
+                        @Override
+                        public void onPageChanged(int page, int pageCount) {
+                            currentPageNumber.setText("পৃষ্ঠা নম্বর  "+page+"/"+pageCount);
+                        }
+                    })
                     .load();
         } catch (IOException e) {
             e.printStackTrace();
