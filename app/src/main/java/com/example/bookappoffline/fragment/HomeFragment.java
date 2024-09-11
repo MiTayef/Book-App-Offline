@@ -111,7 +111,7 @@ public class HomeFragment extends Fragment {
         // Populate the GridView with items
         categoryItemList = new ArrayList<>();
         categoryItemList.add(new CategoryItem(R.drawable.nazrur, "কাজী নজরুল ইসলাম", "বিদ্রোহী কবি", 1));
-        categoryItemList.add(new CategoryItem(R.drawable.ravindra, "রবীন্দ্রনাথ ঠাকুর", "বিশ্ব কবি", 1));
+        categoryItemList.add(new CategoryItem(R.drawable.ravindranath, "রবীন্দ্রনাথ ঠাকুর", "বিশ্ব কবি", 1));
         categoryItemList.add(new CategoryItem(R.drawable.humayon, "হুমায়ূন আহমেদ", "উপন্যাসক", 1));
         categoryItemList.add(new CategoryItem(R.drawable.jibanananda, "জীবনানন্দ দাশ", "কবি", 1));
         categoryItemList.add(new CategoryItem(R.drawable.samsur, "শামসুর রাহমান", "কবি", 1));
