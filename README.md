@@ -21,9 +21,7 @@
 <!-- Follow Me Area -->
 <h2>Follow Me: 💨</h2>
 
-<a href="https://facebook.com/AndroidSquadOfficial"><span><img src="https://thumbs.dreamstime.com/b/facebook-logo-vector-eps-file-squared-coloured-easily-editable-have-white-background-high-resolution-255557233.jpg" alt="Description" style="width: 16px; height: 15px;"/>&nbsp;Facebook</a></span> &nbsp; &nbsp;
-
-<a href="https://x.com/TayefMazumderBD"><span><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT0IOxo4tlyzjUFOOiE4dn-v8JAmF5h5sM9A&s" alt="Description" style="width: 16px; height: 15px;"/>&nbsp;Twitter</a></span> &nbsp; &nbsp;
+<span>▶<a href="https://facebook.com/AndroidSquadOfficial">Facebook</a></span> &nbsp; &nbsp;
 
 
 
