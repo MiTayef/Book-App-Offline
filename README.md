@@ -13,7 +13,8 @@
 
 <!-- Contact Me Area -->
 <h2>Contact me: 💬</h2>
-    <p>WhatsApp: <a href="tel:+1234567890"> +880 1622656866 </a></p>
+    <a href="tel:+1234567890">Call Us: +1 234 567 890</a>
+
     <p>Email: <a href="mailto:example@email.com"> info.mitayef@gmail.com </a></p>
 
 
