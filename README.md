@@ -10,7 +10,8 @@
 
 <ul>
     <li><a href="https://facebook.com/AndroidSquadOfficial" target="_blank" style="text-decoration: none; color: blue;">Facebook</a></li>
-    <li><a href="https://facebook.com/AndroidSquadOfficial" target="_blank" style="text-decoration: none; color: blue;">YouTube</a></li>
+    <li><a href="https://x.com/TayefMazumderBD" target="_blank" style="text-decoration: none; color: red;">Twitter</a></li>
+    <li><a href="https://github.com/MiTayef/" target="_blank" style="text-decoration: none; color: blue;">GitHub</a></li>
 </ul>
 
 
