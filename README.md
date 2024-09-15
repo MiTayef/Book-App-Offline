@@ -12,7 +12,7 @@
     <li><a href="https://facebook.com/AndroidSquadOfficial" target="_blank" style="text-decoration: none; color: blue;">Facebook</a></li>
     <li><a href="https://x.com/TayefMazumderBD" target="_blank" style="text-decoration: none; color: red;">Twitter</a></li>
     <li><a href="https://github.com/MiTayef/" target="_blank" style="text-decoration: none; color: blue;">GitHub</a></li>
-    <li><a href="https://youtube.com/" target="_blank" style="text-decoration: none; color: blue;">YouTube</a></li>
+    <li><a href="https://www.linkedin.com/in/mitayef/" target="_blank" style="text-decoration: none; color: red;">Linkedin</a></li>
 </ul>
 
 
