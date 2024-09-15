@@ -1,9 +1,3 @@
-
-
-
-
-### Follow me 💨
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,6 +6,7 @@
 </head>
 <body>
 
+<h2>Follow Me</h2>
 <a href="https://github.com/MiTayef/" target="_blank" style="text-decoration: none; color: blue;">
     View GitHub Readme
 </a>
