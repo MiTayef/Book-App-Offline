@@ -3,4 +3,4 @@
 
 
 ### Follow me 💨
-<a href="https://www.facebook.com/AndroidSquadOfficial">Facebook</a>
+[Facebook](www.facebook.com)
