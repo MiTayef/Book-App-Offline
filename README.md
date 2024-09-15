@@ -21,7 +21,10 @@
 <!-- Follow Me Area -->
 <h2>Follow Me: 💨</h2>
 
+<span>▶<a href="https://bd.linkedin.com/in/mitayef">Linkedin</a></span> &nbsp; &nbsp;
 <span>▶<a href="https://facebook.com/AndroidSquadOfficial">Facebook</a></span> &nbsp; &nbsp;
+<span>▶<a href="https://x.com/TayefMazumderBD">Twitter</a></span> &nbsp; &nbsp;
+<span>▶<a href="https://github.com/MiTayef">GitHub</a></span> &nbsp; &nbsp;
 
 
 
