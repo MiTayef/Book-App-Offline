@@ -26,9 +26,9 @@
 <span>▶<a href="https://bd.linkedin.com/in/mitayef">Linkedin</a></span> &nbsp; &nbsp;
 <span>▶<a href="https://facebook.com/AndroidSquadOfficial">Facebook</a></span> &nbsp; &nbsp;
 <span>▶<a href="https://x.com/TayefMazumderBD">Twitter</a></span> &nbsp; &nbsp;
-<span>▶<a href="https://github.com/MiTayef">GitHub</a></span> &nbsp; &nbsp;
+<span>▶<a href="https://github.com/MiTayef">GitHub</a></span> &nbsp; &nbsp; </br>
 
-<p><b>NOTE: </b>If any problem arises while practicing this project or working this project please contact me.</p>
+<p><b>NOTE: </b>If any problem arises while practicing this project or working this project please contact me. Thank you</p>
 
 
 </body>
