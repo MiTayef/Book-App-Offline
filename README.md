@@ -17,6 +17,8 @@
     <p>Email: <a href="mailto:example@email.com">info.mitayef@gmail.com</a></p>
     <p>Facebook: <a href="">Mi Tayef</a></p>
 
+    </br></br>
+
 
 <!-- Follow Me Area -->
 <h2>Follow Me: 💨</h2>
