@@ -11,6 +11,14 @@
 <img src="https://github.com/user-attachments/assets/d91da89f-ab04-4808-8544-c773fd14f07e" /> </br></br>
 
 
+<!-- App Features Area -->
+ <h2>App Key Features</h2>
+ <ul>
+     <h3>Laga</h3>
+     <li></li>
+ </ul>
+
+
 <!-- Contact Me Area -->
 <h2>Contact on 💬</h2>
     <p>WhatsApp: <a href="tel:+8801522656866">+880 1622656866</a></p>
