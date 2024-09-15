@@ -30,7 +30,7 @@
 
 
 <!-- Bottom Line Area -->
-<h2>Helping Hand 🛂</h2>
+<h2>Helping Hand 🎤</h2>
 <p><b>NOTE: </b>If any problem arises while practicing this project or while working on this project. Or if you don't understand something, please contact me. thank you</p>
 
 
