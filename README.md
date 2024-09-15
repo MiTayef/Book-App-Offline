@@ -13,11 +13,10 @@
 
 <!-- App Features Area -->
 <h3>App Key Features</h3>
- <ul>
-     <li>✔ View, Read and Zoom PDF File</li>
-     <li>Showing The Number of PDF Pages</li>
-     <li>Showing The Number of PDF Pages</li>
- </ul></p></br></br>
+<p>✔ View, Read and Zoom PDF File</p>
+<p>✔ View, Read and Zoom PDF File</p>
+<p>✔ View, Read and Zoom PDF File</p>
+</br></br>
 
 
 <!-- Contact Me Area -->
