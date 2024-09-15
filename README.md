@@ -7,9 +7,13 @@
 <body>
 
 <h2>Follow Me</h2>
-<a href="https://github.com/MiTayef/" target="_blank" style="text-decoration: none; color: blue;">
-    View GitHub Readme
-</a>
+
+<ul>
+    <li><a href="https://facebook.com/AndroidSquadOfficial" target="_blank" style="text-decoration: none; color: blue;">Facebook</a></li>
+    <li><a href="https://facebook.com/AndroidSquadOfficial" target="_blank" style="text-decoration: none; color: blue;">YouTube</a></li>
+</ul>
+
+
 
 </body>
 </html>
