@@ -9,10 +9,10 @@
 <h2>Follow Me</h2>
 
 <ul>
-    <li><a href="https://facebook.com/AndroidSquadOfficial" style="text-decoration: none; color: blue;">Facebook</a></li>
-    <li><a href="https://x.com/TayefMazumderBD" target="_blank" style="text-decoration: none; color: red;">Twitter</a></li>
-    <li><a href="https://github.com/MiTayef/" target="_blank" style="text-decoration: none; color: blue;">GitHub</a></li>
-    <li><a href="https://www.linkedin.com/in/mitayef/" target="_blank" style="text-decoration: none; color: red;">Linkedin</a></li>
+    <li><a href="https://facebook.com/AndroidSquadOfficial">Facebook</a></li>
+    <li><a href="https://x.com/TayefMazumderBD">Twitter</a></li>
+    <li><a href="https://github.com/MiTayef/">GitHub</a></li>
+    <li><a href="https://www.linkedin.com/in/mitayef/">Linkedin</a></li>
 </ul>
 
 
