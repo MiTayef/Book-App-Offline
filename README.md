@@ -14,8 +14,8 @@
 <!-- Contact Me Area -->
 <h2>Contact me: 💬</h2>
 <ul>
-    <p>WhatsApp: <a href="tel:+1234567890">+880 1622656866</a></p>
-   <p>Email: <a href="mailto:example@email.com">info.mitayef@gmail.com</a></p>
+    <p>WhatsApp: <a href="tel:+1234567890"> +880 1622656866 </a></p>
+    <p>Email: <a href="mailto:example@email.com"> info.mitayef@gmail.com </a></p>
 </ul>
 
 
