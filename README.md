@@ -21,10 +21,10 @@
 <!-- Follow Me Area -->
 <h2>Follow Me: 💨</h2>
 
-  <span>▶ <a href="https://facebook.com/AndroidSquadOfficial">Facebook</a></span>
-   <a href="https://x.com/TayefMazumderBD">Twitter</a>
-   <a href="https://github.com/MiTayef/">GitHub</a>
-   <a href="https://www.linkedin.com/in/mitayef/">Linkedin</a>
+  <span>▶ <a href="https://facebook.com/AndroidSquadOfficial">Facebook</a></span> &nbsp; &nbsp;
+   <a href="https://x.com/TayefMazumderBD">Twitter</a> &nbsp; &nbsp;
+   <a href="https://github.com/MiTayef/">GitHub</a> &nbsp; &nbsp;
+   <a href="https://www.linkedin.com/in/mitayef/">Linkedin</a> &nbsp; &nbsp;
 
 
 
