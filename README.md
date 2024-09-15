@@ -46,7 +46,8 @@
 <!-- Bottom Line Area -->
 <h2>Helping Eye 👁‍🗨</h2>
 <p><b>NOTE: </b>If any problem arises while practicing this project or while working on this project. Or if you don't understand something, please contact me. thank you</p>
+</br></br>
 
-
+<b><p>Author <a href="https://facebook.com/AndroidSquadOfficial">Android Squad</a></p></b>
 </body>
 </html>
