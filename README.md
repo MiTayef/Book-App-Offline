@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h2>Follow Me</h2>
+<h6>Follow Me</h6>
 <a href="https://github.com/MiTayef/" target="_blank" style="text-decoration: none; color: blue;">
     View GitHub Readme
 </a>
