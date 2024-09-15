@@ -13,7 +13,7 @@
 
 <!-- App Features Area -->
  <ul>
-     <h2>App Key Features</h2>
+     <h3>App Key Features</h3>
      <li>View, Read and Zoom PDF File</li>
      <li>Showing The Number of PDF Pages</li>
      <li>Showing The Number of PDF Pages</li>
