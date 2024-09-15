@@ -7,7 +7,7 @@
 <body>
 
 <!-- Banner Me Area -->
-<h2>Information About App and Developers</h2>
+<h2>Information About App and Developers 💎🏆</h2>
 <img src="https://github.com/user-attachments/assets/d91da89f-ab04-4808-8544-c773fd14f07e" /> </br></br>
 
 
