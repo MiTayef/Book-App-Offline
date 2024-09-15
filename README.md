@@ -13,8 +13,9 @@
 
 <!-- Contact Me Area -->
 <h2>Contact me: 💬</h2>
-    <p>WhatsApp: <a href="tell:+8801522656866">+880 1622656866</a></p>
+    <p>WhatsApp: <a href="tel:+8801522656866">+880 1622656866</a></p>
     <p>Email: <a href="mailto:example@email.com">info.mitayef@gmail.com</a></p>
+    <p>Facebook: <a href="https://www.facebook.com/MiTayef.09">Mi Tayef</a></p>
 
 
 <!-- Follow Me Area -->
