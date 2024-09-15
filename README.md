@@ -12,7 +12,7 @@
 
 
 <!-- Contact Me Area -->
-<h2>Contact me: 💬</h2>
+<h2>Contact 💬</h2>
     <p>WhatsApp: <a href="tel:+8801522656866">+880 1622656866</a></p>
     <p>Email: <a href="mailto:example@email.com">info.mitayef@gmail.com</a></p>
     <p>Facebook: <a href="">Mi Tayef</a></p></br></br>
@@ -21,13 +21,16 @@
 
 
 <!-- Follow Me Area -->
-<h2>Follow Me: 💨</h2>
+<h2>Follow 💨</h2>
 
 <span>▶<a href="https://bd.linkedin.com/in/mitayef">Linkedin</a></span> &nbsp; &nbsp;
 <span>▶<a href="https://facebook.com/AndroidSquadOfficial">Facebook</a></span> &nbsp; &nbsp;
 <span>▶<a href="https://x.com/TayefMazumderBD">Twitter</a></span> &nbsp; &nbsp;
-<span>▶<a href="https://github.com/MiTayef">GitHub</a></span> &nbsp; &nbsp; </br>
+<span>▶<a href="https://github.com/MiTayef">GitHub</a></span> &nbsp; &nbsp; </br></br>
 
+
+<!-- Bottom Line Area -->
+<h2>Helping Hand 🛂</h2>
 <p><b>NOTE: </b>If any problem arises while practicing this project or while working on this project. Or if you don't understand something, please contact me. thank you</p>
 
 
