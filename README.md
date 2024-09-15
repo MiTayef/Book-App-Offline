@@ -12,7 +12,7 @@
 
 
 <!-- App Features Area -->
-<h3>✅ App Key Features</h3>
+<h3>App Key Features 🔽</h3>
 <p>✔ FAQ Section</p>
 <p>✔ Navigation Menu</p>
 <p>✔ Bottom Menu</p>
