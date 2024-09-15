@@ -12,10 +12,11 @@
 
 
 <!-- App Features Area -->
- <h2>App Key Features</h2>
  <ul>
-     <h3>Laga</h3>
-     <li></li>
+     <h2>App Key Features</h2>
+     <li>View, Read and Zoom PDF File</li>
+     <li>Showing The Number of PDF Pages</li>
+     <li>Showing The Number of PDF Pages</li>
  </ul>
 
 
